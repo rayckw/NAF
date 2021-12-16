@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+
+<p>Hello Requester,</p>
+<p>You request has been approved:</p><ul>
+<li>Requester:<?= form.requester_Email ?></li>
+<li>Contract#: <?= form.Contract_No ?> </li>
+<li>Contract details: <?= form.requester_Content ?></li>
+</ul>
+
+<p>Regards,</p>
+
+
+</body>
+
+  
+</html>
