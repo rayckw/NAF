@@ -9,6 +9,7 @@ Assumptions:
 2. The approval base on contract based
 
 To handle new requirements:
+
 Option 1: Design the approval matrix by contract amount
 e.g.
 - amount < 5001, only 1 approver
